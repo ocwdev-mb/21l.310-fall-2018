@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "90b28c4c-7984-eb5b-b8d5-82fea1791cf4",
+  "instructors": {
+    "content": [
+      "cfbc11b0-c16b-a827-c738-dc358700fa62"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "51a3f0ab-6faf-9451-c3ae-9a3a0ad58c6a",
+    "website": "21l-310-bestsellers-out-for-the-count-fall-2018"
+  },
+  "course_title": "Bestsellers: Out for the Count",
+  "course_description": "This class uses a range of literary texts to trace the growth of the vampire trope from its first appearance in English-language fiction in the early years of the nineteenth century. Centering on classic works by Lord Byron, John Polidori, Sheridan le Fanu, Bram Stoker, and others, we learn about the formation of the modern literary canon, the folklore of the undead, and the creation of one of the most prolific popular culture genres\u2014vampire fiction\u2014which reached its first apotheosis in Stoker\u2019s masterwork, _Dracula_.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.310",
+  "course_image_thumbnail": {
+    "content": "183133f9-47a4-b346-9699-4ca7ebffd955",
+    "website": "21l-310-bestsellers-out-for-the-count-fall-2018"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "a808439c-ef31-4d08-b468-7cc36e97a225",
+  "site_short_id": "21l.310-fall-2018",
+  "title": "Course Metadata"
+}

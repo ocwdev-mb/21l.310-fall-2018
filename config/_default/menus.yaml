@@ -1,0 +1,72 @@
+leftnav:
+- identifier: fda12603-0a04-cdde-2a60-3ddfb55bc0a3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ad49a49c-14a3-941c-c6f8-7f30f86ef182
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: a23bdac4-3267-b3f3-59b1-f23f1dde25c2
+  name: Frayling Reading Guide
+  pageRef: /pages/readings/frayling-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 40
+- identifier: 90e969fe-d4ca-5262-2106-546df6a76220
+  name: Leatherdale Reading Guide
+  pageRef: /pages/readings/leatherdale-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 50
+- identifier: e5852837-33ff-1a27-edcd-9f9a0ee96e3f
+  name: McClelland Reading Guide
+  pageRef: /pages/readings/mcclelland-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 60
+- identifier: c6670817-230a-fea3-0c82-7cfc9b12ae6c
+  name: Rondina Reading Guide
+  pageRef: /pages/readings/rondina-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 70
+- identifier: b946d98d-dd87-61b8-56a0-e8e3c7568a77
+  name: Dracula Reading Guide
+  pageRef: /pages/readings/dracula-notes
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 80
+- identifier: 90db2e10-7287-7975-5118-f073b49c6ec2
+  name: Hallab Reading Guide
+  pageRef: /pages/readings/hallab-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 90
+- identifier: b6970746-ad39-ea6e-7a8d-f47efa8028e6
+  name: Auerbach Reading Guide
+  pageRef: /pages/readings/auerbach-reading-guide
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 100
+- identifier: 77e462c2-00f0-3e34-fcbf-e2de0c17db1c
+  name: The Giaour
+  pageRef: /pages/readings/the-giaour
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 110
+- identifier: 5b644de9-43e7-17ac-a618-c6e1e174c05d
+  name: Literary Modernism
+  pageRef: /pages/readings/literary-modernism
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 120
+- identifier: 9f6f1e8e-95c8-14fa-3b62-b1a8da54fa0b
+  name: Popular Culture
+  pageRef: /pages/readings/popular-culture
+  parent: 4d7494d1-0609-ac5f-50cd-c65f5d06d58d
+  weight: 130
+- identifier: 48523263-ace3-759d-1352-45e0b86bebb9
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 140
+- identifier: f5a83161-56c0-1975-02c9-e92be3dac839
+  name: Notes on Polidori and Rymer
+  pageRef: /pages/assignments/notes-on-polidori-and-rymer
+  parent: 48523263-ace3-759d-1352-45e0b86bebb9
+  weight: 150
